@@ -1,6 +1,6 @@
 [submodule "@server"]
-	path = gi-server
+	path = @server
 	url = https://github.com/norahmaria/gi-server
 [submodule "@client"]
-	path = gi-client
+	path = @client
 	url = https://github.com/norahmaria/gi-client
