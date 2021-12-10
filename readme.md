@@ -11,4 +11,4 @@ All emojis in the project are from the [Sensa Package](https://sensa.co/emoji/),
 - [ ] Add modals for seeing user followers / following 🤩
 - [ ] Add dark mode 🌒
 - [ ] Add modals for seeing user followers / following 🤩
-- [ ] Fix bug when having written wrong input on sign in / up where you have to retype the *entire* field again 🤓
+- [ ] Fix Bug: When writing wrong input, you have to retype the *entire* field again 🤓
